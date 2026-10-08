@@ -1,0 +1,15 @@
+{
+  "transaction_id": "TX-2026-8891",
+  "timestamp": "2026-10-08T11:45:00Z",
+  "account_id": "ACC-5512",
+  "amount": 15500.00,
+  "currency": "BRL",
+  "destination_account": "ACC-9901",
+  "device_id": "DEV-IPHONE-15-XYZ",
+  "location": "Sertãozinho, SP",
+  "customer_profile": {
+    "avg_monthly_transfer": 2500.00,
+    "usual_location": "Sertãozinho, SP",
+    "risk_score_historical": "LOW"
+  }
+}
